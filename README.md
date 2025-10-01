@@ -87,6 +87,6 @@ Implement modular, managed, and high-performance switches to build reliable and 
 
 ---
 
-[Check All the Products in this Collection](https://www.versitron.com/collections/fiber-optic-network-switches)
+[Check All the Products in this Collection](https://www.versitron.com/collections/modular-switch)
 
 ---
